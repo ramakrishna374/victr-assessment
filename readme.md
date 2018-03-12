@@ -59,7 +59,11 @@
 
 	* `php artisan migrate`
 
-8. Point the browser to the public folder.
+8. Please check for APP_KEY in .env, it should generate the key when composer installs the packages. If not run this command
+      
+       * `php artisan key:generate`
+
+9. Point the browser to the public folder.
 
     * `http://localhost/project_name/public/`
 
