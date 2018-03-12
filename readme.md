@@ -61,5 +61,5 @@
 
 8. Point the browser to the public folder.
 
-    * `http://localhost/Github/public/`
+    * `http://localhost/project_name/public/`
 
