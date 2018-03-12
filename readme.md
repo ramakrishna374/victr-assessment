@@ -26,11 +26,11 @@
 
 1. Clone the VICTR-assessment Github repo to your local machine.
 
-    * `git clone https://github.com/justinhamlett/VICTR-assessment.git VICTR-assessment`
+    * `git clone https://github.com/ramakrishna374/victr-phpassessment.git victr-phpassessment`
     
-2. In terminal, navigate to the directory, `VICTR-assessment/`, the Github repository base directory.
+2. In terminal, navigate to the directory, `victr-phpassessment/`, the Github repository base directory.
 
-    * `cd Github/`
+    * `cd victr-phpassessment/`
     
 3. Install the Composer dependencies listed in the `composer.json` file. *(PHP backend requirements)*
 
