@@ -54,16 +54,16 @@
 	* `DB_DATABASE=db_name`
 	* `DB_USER=db_user`
 	* `DB_PASS=password`
+	
+7. Generate the key in .env file
+      
+        * `php artisan key:generate`	
 
-7. Create the `repositories` table in the `db` that will be used to store Github repositories.
+8. Create the `repositories` table in the `db` that will be used to store Github repositories.
 
 	* `php artisan migrate`
 
-8. Please check for APP_KEY in .env, it should generate the key when composer installs the packages. If not run this command
-      
-       * `php artisan key:generate`
+9. Point the browser to the public folder, can set this in conf file or manually enter in URL as followed below.
 
-9. Point the browser to the public folder.
-
-    * `http://localhost/project_name/public/`
+        * `http://localhost/project_name/public/`
 
