@@ -12,7 +12,7 @@
 
 ##### Requirements:
     * Apache or NGINX web server
-    * PHP 7.0 or newer
+    * PHP 7.1.3 or newer
     * MySQL
     * Composer
 
